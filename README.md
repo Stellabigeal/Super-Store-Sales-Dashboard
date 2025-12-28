@@ -1,5 +1,3 @@
-# Super-Store-Sales-Dashboard
-
 # Super Store Sales Dashboard
 
 ##  Project Overview
@@ -30,7 +28,8 @@ The **Consumer segment** generates the highest share of sales, followed by Corpo
 ##  Executive Dashboard Screenshot
 Below is the executive dashboard used to generate the insights summarized above.
 
-![Super Store Executive Dashboard](screenshots/dashboard.png)
+![Super Store Executive Dashboard](https://raw.githubusercontent.com/Stellabigeal/Super-Store-Sales-Dashboard/main/powerbi-project1-imag6%20executive%20summary.jpg)
+
 
 ---
 
@@ -71,11 +70,6 @@ This dashboard helps decision-makers to:
 - Identify high-impact products and regions  
 - Improve profitability through data-driven insights  
 - Track trends and respond proactively to changes  
-
----
-
-##  Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
 
 ---
 
