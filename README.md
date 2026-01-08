@@ -6,6 +6,13 @@ The objective is to deliver an **executive-ready Power BI dashboard** that enabl
 
 ---
 
+##  Live Power BI Report
+
+View the interactive Power BI report here:  
+ https://app.powerbi.com/groups/me/reports/dc38bc8a-34a1-4c1f-9b9d-12598553c88d/36ec721d6feab1d302b4?experience=power-bi
+
+---
+
 ## Business Problem
 Retail organizations need clear visibility into:
 - Which products and regions generate the most revenue
