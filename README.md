@@ -8,8 +8,8 @@ The objective is to deliver an **executive-ready Power BI dashboard** that enabl
 
 ##  Live Power BI Report
 
-View the interactive Power BI report here:  
- https://app.powerbi.com/groups/me/reports/dc38bc8a-34a1-4c1f-9b9d-12598553c88d/36ec721d6feab1d302b4?experience=power-bi
+You can explore the interactive dashboard on **Power BI Service** here:  
+[Open the Power BI Report](https://app.powerbi.com/groups/me/reports/dc38bc8a-34a1-4c1f-9b9d-12598553c88d/36ec721d6feab1d302b4?experience=power-bi)
 
 ---
 
@@ -23,7 +23,7 @@ Without a centralized reporting solution, identifying opportunities and risks be
 
 ---
 
-## 🧾 Executive Summary
+##  Executive Summary
 The Super Store achieved **$2.30M in total sales** and **$286.4K in total profit**, resulting in a **12.47% profit margin**.
 
 The **West region** is the top-performing region by sales (**$0.73M**), while the **Central region** recorded the **lowest profitability (7.9%)**, indicating margin pressure.
@@ -32,10 +32,21 @@ The **Consumer segment** generates the highest share of sales, followed by Corpo
 
 ---
 
-##  Executive Dashboard Screenshot
-Below is the executive dashboard used to generate the insights summarized above.
+## Executive Sales Dashboard (Power BI)
 
-![Super Store Executive Dashboard](https://raw.githubusercontent.com/Stellabigeal/Super-Store-Sales-Dashboard/main/powerbi-project1-imag6%20executive%20summary.jpg)
+This Executive Dashboard provides a high-level overview of business performance, designed to support strategic decision-making.
+
+**Key insights include:**
+- Total Sales, Profit, and Profit Margin
+- Regional performance comparison
+- Top-performing product categories and segments
+- Sales and profitability trends over time
+
+🔗 **View the interactive Executive Dashboard on Power BI Service:**  
+https://app.powerbi.com/groups/me/dashboards/0fa9a6a4-2b84-46ab-ae3a-29db8ca946c1?experience=power-bi
+
+> ⚠️ Note: You may need to sign in to Power BI to access the dashboard.
+
 
 
 ---
